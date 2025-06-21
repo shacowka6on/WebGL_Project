@@ -1,4 +1,4 @@
-Space shooter, ползвах pixi.js да го направя. 
+2D Space shooter with pixi.js. 
 
 ![image](https://github.com/user-attachments/assets/fc840bca-1474-4c50-a340-f99ec92bc49a)
 ![image](https://github.com/user-attachments/assets/2b52bbb9-ee30-4a6d-9c1a-c048398732db)
